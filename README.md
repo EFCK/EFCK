@@ -19,6 +19,8 @@ I work on floor plan understanding for indoor maps: panoptic symbol spotting on 
 
 Graduation project: *Active Test Time Domain Adaptation for Panoptic Symbol Spotting on CAD Floor Plans*, supported by a TÜBİTAK 2209-A grant.
 
+Currently building a smart home assistant in my own time: a tool calling LLM that controls devices through the Home Assistant API and answers questions about the home. Repository to follow.
+
 ## Contact
 
 kirbiyike22@itu.edu.tr · [LinkedIn](https://www.linkedin.com/in/efecankirbiyik) · [ORCID](https://orcid.org/0009-0008-5223-0947)
